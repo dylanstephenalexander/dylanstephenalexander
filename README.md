@@ -1,8 +1,6 @@
 # hey, i'm dylan 👋
 
-CS grad from UBCO. I enjoy building things I'd want to use myself.
-
-Currently finishing my degree and figuring out what's next.
+I'm currently finishing my CS degree at UBCO this April. I enjoy building things I'd want to use myself.
 
 ---
 
